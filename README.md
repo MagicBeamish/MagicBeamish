@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Graham Myers #@magicbeamish
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on a new project
 - 📫 How to reach me magicbeamish@protonmail.com
 <!---
